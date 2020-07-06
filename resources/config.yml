@@ -1,0 +1,47 @@
+---
+#   {NAME} => Tên vật phẩm
+#   {COUNT} => Số lượng vật phẩm
+#   {PRICE} => Giá tiền
+#   {PRICE_FORMATTED} => Đơn vị tiền tệ
+#   {CATEGORY| => Tên danh mục
+#   {PAGE} => Số trang
+
+confirmation-ui:
+
+    # Khởi chạy UI khi người chơi nhấp vào một vật phẩm
+    
+    enabled: true
+    
+    # Tiêu đề của UI
+    
+    title: "Xác nhận mua hàng"
+    
+    # Nội dung của UI
+    
+    body: "Bạn có muốn mua {NAME} x{COUNT} với giá {PRICE_FORMATTED}?"
+    
+    # Văn bản hiển thị trên button
+    
+    buttons:
+        confirm:
+            text: "&l&8OK CON DÊ&r\n&8Mua hàng luôn sợ đ*o gì!"
+            icon:
+                type: "path"
+                value: ""
+        cancel:
+            text: "&l&8TỪ CHỐI&r\n&8Thôi tui hổng mua!"
+            icon:
+                type: "path"
+                value: ""
+
+economy:
+
+    # Ghi tên plugin tiền tệ mà server bạn đang sử dụng vào đây (Xài EconomyAPI cho lẹ bạn nhé!)
+    
+    plugin: EconomyAPI
+    
+    # Tùy chọn cấu hình bổ sung cho plugin MultiEconomy
+    
+    MultiEconomy:
+        currency: "đô la"
+...

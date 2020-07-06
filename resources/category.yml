@@ -1,0 +1,48 @@
+---
+#   {CATEGORY} => Tên danh mục
+
+button:
+    - "&r&l&b{CATEGORY}"
+    - "&r&7Nhấn vào để xem thêm."
+
+#   {NAME} => Tên vật phẩm
+#   {COUNT} => Số lượng vật phẩm
+#   {PRICE} => Giá tiền
+#   {PRICE_FORMATTED} => Đơn vị tiền tệ
+#   {CATEGORY| => Tên danh mục
+#   {PAGE} => Số trang
+
+item-button:
+    name: "&r{NAME}"
+    lore:
+        #    unshift  => Thêm lore vào đầu danh mục
+        #    push     => Thêm lore vào cuối lore của vật phẩm
+        #    override => Xóa lore mặc định của vật phẩm và ghi đè lore.
+        type: override
+        value:
+            - "&r&l&eGIÁ TIỀN: &r&e{PRICE_FORMATTED}"
+            
+#   {NAME} => Tên danh mục
+#   {PAGE} => Số trang
+
+title: "{NAME}"
+send-back-to-categories: false
+
+#   {PLAYER} => Tên người chơi
+#   {PRICE} => Giá tiền của vật phẩm
+#   {PRICE_FORMATTED} => Đơn vị tiền tệ
+#   {ITEM} => Tên vật phẩm
+#   {COUNT} => Số lượng vật phẩms
+
+purchase-message: "&aBạn đã mua {ITEM} x{COUNT}&r&a với giá {PRICE_FORMATTED}!"
+
+#   {PLAYER} => Tên người chơi
+#   {PRICE} => Giá tiền của vật phẩm
+#   {PRICE_FORMATTED} => Đơn vị tiền tệ
+#   {MONEY} => Số tiền người chơi đang có
+#   {MONEY_FORMATTED} => Đơn vị tiền tệ
+#   {ITEM} => Tên vật phẩm
+#   {COUNT} => Số lượng vật phẩm
+
+not-enough-money-message: "&cBạn không có đủ tiền để mua {COUNT}x {ITEM}&r&c!"
+...

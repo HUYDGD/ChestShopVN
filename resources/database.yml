@@ -1,0 +1,29 @@
+database:
+
+    # Các loại cơ sở dữ liệu như sqlite và mysql đều được hỗ trợ.
+    
+    type: sqlite
+
+    # Chỉ chỉnh sửa chỗ này nếu bạn chọn sqlite.
+    
+    sqlite:
+    
+        # Tên của thư mục sqlite
+        
+        file: data.sqlite
+        
+    # Chỉ chỉnh sửa chỗ này nếu bạn chọn mysql.
+    
+    mysql:
+        host: 127.0.0.1
+        
+        # Tránh sử dụng tên người dùng root (vì lí do bảo mật, nếu bị lộ server bạn có thể bị hack).
+        
+        username: root
+        password: ""
+        schema: your_schema
+        
+    # Số lượng truy cập SQL
+    # Lưu ý: đặt 1 cho sqlite, 2 cho MySQL. Bạn hoàn toàn có thể tăng giá trị nếu kết nối của bạn chậm.
+    
+    worker-limit: 1

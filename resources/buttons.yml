@@ -1,0 +1,22 @@
+# CÀI ĐẶT ChestShop v5.0.0
+turn_left:
+    id: paper
+    damage: 0
+    count: 1
+    name: "&r&l&6◄ Trái"
+    lore:
+        - "&r&7Sang trang bên trái."
+turn_right:
+    id: paper
+    damage: 0
+    count: 1
+    name: "&r&l&6Phải ►"
+    lore:
+        - "&r&7Sang trang bên phải."
+categories:
+    id: chest
+    damage: 0
+    count: 1
+    name: "&r&l&eTrang Chủ"
+    lore:
+        - "&r&7Quay trở lại trang chủ."
