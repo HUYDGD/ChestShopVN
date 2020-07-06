@@ -18,7 +18,7 @@
 3. Chạy lệnh ```stop``` trên CONSOLE và bật lại server.
 4. XONG!!!
 
-#### + Nhớ cài thêm ```EconomyAPI & ``` để ChestShop hoạt động trơn tru.
+#### + Nhớ cài thêm ```EconomyAPI v``` để ChestShop hoạt động trơn tru.
 
 # Thông báo
 ##### Đã cập nhật vào: 6/7/2020.
