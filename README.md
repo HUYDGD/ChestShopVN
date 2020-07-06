@@ -1,3 +1,4 @@
+`Password: soicon`
 <h1>ChestShopVN<img src="https://vignette.wikia.nocookie.net/minecraft/images/4/41/Chest.gif/revision/latest?cb=20191220013630" height="64" width="64" align="left"></img></h1>
 
 + Plugin ChestShop dành cho người Việt! Đã được việt hóa 100%.
