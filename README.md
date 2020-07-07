@@ -26,7 +26,7 @@
 #### + Nhớ cài thêm ```EconomyAPI và InvMenu``` để ChestShop hoạt động trơn tru.
 
 # Thông báo
-##### Đã cập nhật vào: 6/7/2020.
+##### Đã cập nhật vào: 13/3/2020.
 ##### Phiên bản: v5.0.0 (VIETNAMESE VERSION)
 ##### Tải về: https://github.com/GamerSoiCon/ChestShopVN/releases
 ```Mình đã ngừng việt hóa và cập nhật plugin này!```
