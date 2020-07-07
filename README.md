@@ -3,6 +3,7 @@
 
 + Plugin ChestShop dành cho người Việt! Đã được việt hóa 100%.
 + Nguồn: https://github.com/Muqsit/ChestShop
++ Phần mềm: PocketMine-MP
 
 # Lệnh
 + /cs addcat: Thêm danh mục mới.
