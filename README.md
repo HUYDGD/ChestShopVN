@@ -30,4 +30,4 @@
 ```Vì vậy, plugin có thể gây lỗi cho server của bạn trong tương lai!```
 
 # Youtube
-[![ĐĂNG KÍ ỦNG HỘ TUI ĐI :<](https://img.youtube.com/vi/1jBzOIB16rlk/0.jpg)](https://youtu.be/jBzOIB16rlk "ĐĂNG KÍ ỦNG HỘ TUI ĐI :<")
+[![ĐĂNG KÍ ỦNG HỘ TUI ĐI :<](https://img.youtube.com/vi/jBzOIB16rlk/0.jpg)](https://youtu.be/jBzOIB16rlk "ĐĂNG KÍ ỦNG HỘ TUI ĐI :<")
